@@ -17,11 +17,13 @@ public Contato(Object nome, Object telefone, Object email){
     }
 
     public Object getTelefone() {
-        return telefone;
+
+    return telefone;
     }
 
     public void setTelefone(Object telefone) {
-        this.telefone = telefone;
+
+    this.telefone = telefone;
     }
 
     public Object getEmail() {
@@ -29,11 +31,13 @@ public Contato(Object nome, Object telefone, Object email){
     }
 
     public void setEmail(Object email) {
-        this.email = email;
+
+    this.email = email;
     }
 
     public void setNome(Object nome) {
-        this.nome = nome;
+
+    this.nome = nome;
     }
     @Override
     public String toString(){

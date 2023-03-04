@@ -1,5 +1,3 @@
-package Aula4_Marco_Dia2;
-
 public class EstruturaEstatica<T> {
     public T[] elementos;
     public int tamanho;

@@ -1,5 +1,3 @@
-package AulaN03_Dia23_02;
-
 public class Contato {
 private Object nome;
 private Object telefone;

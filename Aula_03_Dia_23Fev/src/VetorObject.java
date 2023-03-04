@@ -1,5 +1,3 @@
-package AulaN03_Dia23_02;
-
 public class VetorObject {
     private Object[] elementos;
     private int tamanho;

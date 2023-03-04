@@ -1,5 +1,3 @@
-package AulaN03_Dia23_02;
-import java.util.Arrays;
 public class Testes {
     public static void main(String[] args) throws Exception {
         VetorObject vetor = new VetorObject(5);
